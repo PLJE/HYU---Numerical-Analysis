@@ -12,7 +12,7 @@ Numerical Recipes in C
 > root finding 2
 
 > hw5    
-> solve linear equation by Gauss-Jordan(gaussj), LU Decompostion , Singular Vallue Decomposition
+> solve linear equation by Gauss-Jordan(gaussj), LU Decompostion , Singular Value Decomposition
 
 > hw6    
 > random number generator(uniform distribution, gaussian distribution)
