@@ -19,3 +19,9 @@ Numerical Recipes in C
 
 > hw7   
 > eigenvalue, eigenvector
+
+> hw8   
+> resampling of image(bilinear interpolation)   
+
+> hw9   
+> linear data fitting   
